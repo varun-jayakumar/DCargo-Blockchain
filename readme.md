@@ -5,6 +5,7 @@ Dcargo is a combination of hardware and web application which have been develope
 ## Components of the Project
 
 The project has three Components
+
 ![architecture](https://github.com/varun-jayakumar/DCargo-Blockchain/blob/main/screenshots/architecture.jpg?raw=true "Application Architecture")
 
 a) NodeJS push API: Responsible for getting data from hardware and post data to Firebase and IPFS storage using Blockchain
@@ -42,3 +43,7 @@ Note: update API endpoints in Client App when run locally `Cargo-Monitoring-Clie
 ### Any questions?
 
 drop a mail at [jayakumar.va@northeastern.edu](mailto:jayakumar.va@northeastern.edu) 😃
+
+Thanks for reading!
+
+> written by Varun Jayakumar
